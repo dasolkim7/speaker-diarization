@@ -1,0 +1,7 @@
+yt-dlp
+youtube-transcript-api
+streamlit
+python-dotenv
+openai
+openai-whisper
+google-generativeai
